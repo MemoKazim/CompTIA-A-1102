@@ -1,0 +1,1304 @@
+QUESTION: 2
+A help desk team lead contacts a systems administrator because the technicians are unable to log in to a Linux server that is
+used to access tools. When the administrator tries to use remote desktop to log in to the server, the administrator sees the GUI
+is crashing. Which of the following methods can the administrator use to troubleshoot the server effectively?
+A. SFTP
+B. SSH
+C. VNC
+D. MSRA
+Correct Answer ~ B
+QUESTION: 3
+A company wants to remove information from past users' hard drives in order to reuse the hard drives. Which of the following is
+the MOST secure method?
+A. Reinstalling Windows
+B. Performing a quick format
+C. Using disk-wiping software
+D. Deleting all files from command-line interface:
+Correct Answer ~ C
+QUESTION: 4
+A user is having phone issues after installing a new application that claims to optimize performance. The user downloaded the
+application directly from the vendor's website and is now experiencing high network utilization and is receiving repeated security
+warnings. Which of the following should the technician perform FIRST to mitigate the issue?
+A. Reset the phone to factory settings.
+B. Uninstall the fraudulent application.
+C. Increase the data plan limits.
+D. Disable the mobile hotspot.
+Correct Answer ~ B
+QUESTION: 5
+A change advisory board just approved a change request. Which of the following is the MOST likely next step in the change
+process?
+A. End user acceptance
+B. Perform risk analysis
+C. Communicate to stakeholders
+D. Sandbox testing
+Correct Answer ~ A
+QUESTION: 6
+A user calls the help desk to report that none of the files on a PC will open. The user also indicates a program on the desktop is
+requesting payment in exchange for file access. A technician verifies the user's PC is infected with ransomware. Which of the
+following should the technician do FIRST?
+A. Scan and remove the malware.
+B. Schedule automated malware scans.
+C. Quarantine the system.
+D. Disable System Restore.
+Correct Answer ~ C
+QUESTION: 7
+A company is issuing smartphone to employees and needs to ensure data is secure if the devices are lost or stolen. Which of
+the following provides the BEST solution?
+A. Anti-malware
+B. Remote wipe
+C. Locator applications
+D. Screen lock
+Correct Answer ~ B
+QUESTION: 8
+A user reports seeing random, seemingly non-malicious advertisement notifications in the Windows 10 Action Center. The
+notifications indicate the advertisements are coming from a web browser. Which of the following is the BEST solution for a
+technician to implement?
+A. Disable the browser from sending notifications to the Action Center.
+B. Run a full antivirus scan on the computer.
+C. Disable all Action Center notifications.
+D. Move specific site notifications from Allowed to Block.
+Correct Answer ~ B
+QUESTION: 9
+After clicking on a link in an email, a Chief Financial Officer (CFO) received the following error:
+The CFO then reported the incident to a technician. The link is purportedly to the organization's bank. Which of the following
+should the technician perform FIRST?
+A. Update the browser's CRLs.
+B. File a trouble ticket with the bank.
+C. Contact the ISP to report the CFO's concern.
+D. Instruct the CFO to exit the browser.
+Correct Answer ~ D
+QUESTION: 10
+A help desk technician is troubleshooting a workstation in a SOHO environment that is running above normal system baselines.
+The technician discovers an unknown executable with a random string name running on the system. The technician terminates
+the process, and the system returns to normal operation. The technician thinks the issue was an infected file, but the antivirus is
+not detecting a threat. The technician is concerned other machines may be infected with this unknown virus. Which of the
+following is the MOST effective way to check other machines on the network for this unknown threat?
+A. Run a startup script that removes files by name.
+B. Provide a sample to the antivirus vendor.
+C. Manually check each machine.
+D. Monitor outbound network traffic.
+Correct Answer ~ C
+QUESTION: 11
+A laptop user is visually impaired and requires a different cursor color. Which of the following OS utilities is used to change the
+color of the cursor?
+A. Keyboard
+B. Touch pad
+C. Ease of Access Center
+D. Display settings
+Correct Answer ~ C
+QUESTION: 12
+A manager reports that staff members often forget the passwords to their mobile devices and applications. Which of the
+following should the systems administrator do to reduce the number of help desk tickets submitted?
+A. Enable multifactor authentication.
+B. Increase the failed log-in threshold.
+C. Remove complex password requirements.
+D. Implement a single sign-on with biometrics.
+Correct Answer ~ D
+QUESTION: 13
+A technician suspects a rootkit has been installed and needs to be removed. Which of the following would BEST resolve the
+issue?
+A. Application updates
+B. Anti-malware software
+C. OS reinstallation
+D. File restore
+Correct Answer ~ C
+QUESTION: 14
+A technician is setting up a SOHO wireless router. The router is about ten years old. The customer would like the most secure
+wireless network possible. Which of the following should the technician configure?
+A. WPA2 with TKIP
+B. WPA2 with AES
+C. WPA3 with AES-256
+D. WPA3 with AES-128
+Correct Answer ~ B
+QUESTION: 15
+A technician is troubleshooting an issue involving programs on a Windows 10 machine that are loading on startup but causing
+excessive boot times. Which of the following should the technician do to selectively prevent programs from loading?
+A. Right-click the Windows button, then select Run... entering shell:startup and clicking OK, and then move items one by one to
+the Recycle Bin.
+B. Remark out entries listed HKEY_LOCAL_MACHINE>SOFTWARE>Microsoft>Windows>CurrentVersion>Run.
+C. Manually disable all startup tasks currently listed as enabled and reboot, checking for issue resolution at startup.
+D. Open the Startup tab and methodically disable items currently listed as enabled and reboot, checking for issue resolution at
+each startup.
+Correct Answer ~ D
+QUESTION: 16
+A call center technician receives a call from a user asking how to update Windows. Which of the following describes what the
+technician should do?
+A. Have the user consider using an iPad if the user is unable to complete updates.
+B. Have the user text the user's password to the technician.
+C. Ask the user to click in the Search field, type Check for Updates, and then press the Enter key.
+D. Advise the user to wait for an upcoming, automatic patch.
+Correct Answer ~ C
+QUESTION: 17
+When a user calls in to report an issue, a technician submits a ticket on the user's behalf. Which of the following practices
+should the technician use to make sure the ticket is associated with the correct user?
+A. Have the user provide a callback phone number to be added to the ticket.
+B. Assign the ticket to the department's power user.
+C. Register the ticket with a unique user identifier.
+D. Provide the user with a unique ticket number that can be referenced on subsequent calls.
+Correct Answer ~ D
+QUESTION: 18
+Which of the following is the MOST important environmental concern inside a data center?
+A. Battery disposal
+B. Electrostatic discharge mats
+C. Toner disposal
+D. Humidity levels
+Correct Answer ~ D
+QUESTION: 19
+A user is unable to log in to the network. The network uses 802.1X with EAP-TLS to authenticate on the wired network. The
+user has been on an extended leave and has not logged in to the computer in several months. Which of the following is causing
+the log-in issue?
+A. Expired certificate
+B. OS update failure
+C. Service not started
+D. Application crash
+E. Profile rebuild needed
+Correct Answer ~ A
+QUESTION: 20
+A technician needs to format a USB drive to transfer 20GB of data from a Linux computer to a Windows computer. Which of the
+following filesystems will the technician MOST likely use?
+A. FAT32
+B. ext4
+C. NTFS
+D. exFAT
+Correct Answer ~ C
+QUESTION: 21
+Following the latest Windows update, PDF files are opening in Microsoft Edge instead of Adobe Reader. Which of the following
+utilities should be used to ensure all PDF files open in Adobe Reader?
+A. Network and Sharing Center
+B. Programs and Features
+C. Default Apps
+D. Add or Remove Programs
+Correct Answer ~ C
+QUESTION: 22
+A technician needs to exclude an application folder from being cataloged by a Windows 10 search. Which of the following
+utilities should be used?
+A. Privacy
+B. Indexing Options
+C. System
+D. Device Manager
+Correct Answer ~ B
+QUESTION: 23
+As part of a CYOD policy, a systems administrator needs to configure each user's Windows device to require a password when
+resuming from a period of sleep or inactivity. Which of the following paths will lead the administrator to the correct settings?
+A. Use Settings to access Screensaver settings.
+B. Use Settings to access Screen Timeout settings.
+C. Use Settings to access General.
+D. Use Settings to access Display.
+Correct Answer ~ A
+QUESTION: 24
+A technician is working with a company to determine the best way to transfer sensitive personal information between offices
+when conducting business. The company currently uses USB drives and is resistant to change. The company's compliance
+officer states that all media at rest must be encrypted. Which of the following would be the BEST way to secure the current
+workflow?
+A. Deploy a secondary hard drive with encryption on the appropriate workstation.
+B. Configure a hardened SFTP portal for file transfers between file servers.
+C. Require files to be individually password protected with unique passwords.
+D. Enable BitLocker To Go with a password that meets corporate requirements.
+Correct Answer ~ D
+QUESTION: 25
+The command cat comptia.txt was issued on a Linux terminal. Which of the following results should be expected?
+A. The contents of the text comptia.txt will be replaced with a new blank document.
+B. The contents of the text comptia.txt would be displayed.
+C. The contents of the text comptia.txt would be categorized in alphabetical order.
+D. The contents of the text comptia.txt would be copied to another comptia.txt file.
+Correct Answer ~ B
+QUESTION: 26
+An incident handler needs to preserve evidence for possible litigation. Which of the following will the incident handler MOST
+likely do to preserve the evidence?
+A. Encrypt the files.
+B. Clone any impacted hard drives.
+C. Contact the cyber insurance company.
+D. Inform law enforcement.
+Correct Answer ~ B
+QUESTION: 27
+A technician needs to recommend the best backup method that will mitigate ransomware attacks. Only a few files are regularly
+modified; however, storage space is a concern. Which of the following backup methods would BEST address these concerns?
+A. Full
+B. Differential
+C. Off-site
+D. Grandfather-father-son
+Correct Answer ~ B
+QUESTION: 28
+A technician is troubleshooting a customer's PC and receives a phone call. The technician does not take the call and sets the
+phone to silent. Which of the following BEST describes the technician's actions?
+A. Avoid distractions
+B. Deal appropriately with customer's confidential material
+C. Adhere to user privacy policy
+D. Set and meet timelines
+Correct Answer ~ A
+QUESTION: 29
+A technician needs to transfer a large number of files over an unreliable connection. The technician should be able to resume
+the process if the connection is interrupted. Which of the following tools can be used?
+A. sfc
+B. chkdsk
+C. git clone
+D. robocopy
+Correct Answer ~ D
+QUESTION: 30
+A company installed a new backup and recovery system. Which of the following types of backups should be completed FIRST?
+A. Full
+B. Non-parity
+C. Differential
+D. Incremental
+Correct Answer ~ A
+QUESTION: 31
+A user's smartphone data usage is well above average. The user suspects an installed application is transmitting data in the
+background. The user would like to be alerted when an application attempts to communicate with the internet. Which of the
+following BEST addresses the user's concern?
+A. Operating system updates
+B. Remote wipe
+C. Antivirus
+D. Firewall
+Correct Answer ~ D
+QUESTION: 32
+A technician has been tasked with installing a workstation that will be used for point-of-sale transactions. The point-of-sale
+system will process credit cards and loyalty cards. Which of the following encryption technologies should be used to secure the
+workstation in case of theft?
+A. Data-in-transit encryption
+B. File encryption
+C. USB drive encryption
+D. Disk encryption
+Correct Answer ~ D
+QUESTION: 33
+A user contacted the help desk to report pop-ups on a company workstation, indicating the computer has been infected with 137
+viruses and payment is needed to remove them. The user thought the company-provided antivirus software would prevent this
+issue. The help desk ticket states that the user only receives these messages when first opening the web browser. Which of the
+following steps would MOST likely resolve the issue? (Choose two.)
+A. Scan the computer with the company-provided antivirus software.
+B. Install a new hard drive and clone the user's drive to it.
+C. Deploy an ad-blocking extension to the browser.
+D. Uninstall the company-provided antivirus software.
+E. Click the link in the messages to pay for virus removal.
+F. Perform a reset on the user's web browser.
+Correct Answer ~ CF
+QUESTION: 34
+A technician is installing new software on a macOS computer. Which of the following file types will the technician MOST likely
+use?
+A. .deb
+B. .vbs
+C. .exe
+D. .app
+Correct Answer ~ D
+QUESTION: 35
+A technician is investigating an employee's smartphone that has the following symptoms:
+-> The device is hot, even when it is not in use.
+-> Applications crash, especially when others are launched.
+-> Certain applications, such as GPS, are in portrait mode when they should be in landscape mode.
+Which of the following can the technician do to MOST likely resolve these issues with minimal impact? (Choose two.)
+A. Turn on autorotation.
+B. Activate airplane mode.
+C. Close unnecessary applications.
+D. Perform a factory reset.
+E. Update the device's operating system.
+F. Reinstall the applications that have crashed.
+Correct Answer ~ AC
+QUESTION: 36
+A customer reported that a home PC with Windows 10 installed in the default configuration is having issues loading applications
+after a reboot occurred in the middle of the night. Which of the following is the FIRST step in troubleshooting?
+A. Install alternate open-source software in place of the applications with issues.
+B. Run both CPU and memory tests to ensure that all hardware functionality is normal.
+C. Check for any installed patches and roll them back one at a time until the issue is resolved.
+D. Reformat the hard drive, and then reinstall the newest Windows 10 release and all applications.
+Correct Answer ~ C
+QUESTION: 37
+Which of the following could be used to implement secure physical access to a data center?
+A. Geofence
+B. Alarm system
+C. Badge reader
+D. Motion sensor
+Correct Answer ~ C
+QUESTION: 38
+The Chief Executive Officer at a bank recently saw a news report about a high-profile cybercrime where a remote-access tool
+that the bank uses for support was also used in this crime. The report stated that attackers were able to brute force passwords
+to access systems. Which of the following would BEST limit the bank's risk? (Choose two.)
+A. Enable multifactor authentication for each support account.
+B. Limit remote access to destinations inside the corporate network.
+C. Block all support accounts from logging in from foreign countries.
+D. Configure a replacement remote-access tool for support cases.
+E. Purchase a password manager for remote-access tool users.
+F. Enforce account lockouts after five bad password attempts.
+Correct Answer ~ AF
+QUESTION: 39
+A user reports a computer is running slow. Which of the following tools will help a technician identify the issue?
+A. Disk Cleanup
+B. Group Policy Editor
+C. Disk Management
+D. Resource Monitor
+Correct Answer ~ D
+QUESTION: 40
+Upon downloading a new ISO, an administrator is presented with the following string:
+59d15a16ce90c8ee97fa7c211b7673a8
+Which of the following BEST describes the purpose of this string?
+A. XSS verification
+B. AES-256 verification
+C. Hash verification
+D. Digital signature verification
+Correct Answer ~ C
+QUESTION: 41
+A user's mobile phone has become sluggish. A systems administrator discovered several malicious applications on the device
+and reset the phone. The administrator installed MDM software. Which of the following should the administrator do to help
+secure the device against this threat in the future? (Choose two.)
+A. Prevent a device root.
+B. Disable biometric authentication.
+C. Require a PIN on the unlock screen.
+D. Enable developer mode.
+E. Block a third-party application installation.
+F. Prevent GPS spoofing.
+Correct Answer ~ AE
+QUESTION: 42
+A technician is unable to join a Windows 10 laptop to a domain. Which of the following is the MOST likely reason?
+A. The domain's processor compatibility is not met.
+B. The laptop has Windows 10 Home installed.
+C. The laptop does not have an onboard Ethernet adapter.
+D. The laptop does not have all current Windows updates installed.
+Correct Answer ~ B
+QUESTION: 43
+Which of the following OS types provides a lightweight option for workstations that need an easy-to-use, browser-based
+interface?
+A. FreeBSD
+B. Chrome OS
+C. macOS
+D. Windows
+Correct Answer ~ B
+QUESTION: 44
+A user has requested help setting up the fingerprint reader on a Windows 10 laptop. The laptop is equipped with a fingerprint
+reader and is joined to a domain.
+Group Policy enables Windows Hello on all computers in the environment. Which of the following options describes how to set
+up Windows Hello Fingerprint for the user?
+A. Navigate to the Control Panel utility, select the Security and Maintenance submenu, select Change Security and Maintenance
+settings, select Windows Hello Fingerprint, and have the user place a fingerprint on the fingerprint reader repeatedly until
+Windows indicates setup is complete.
+B. Navigate to the Windows 10 Settings menu, select the Accounts submenu, select Sign-in options, select Windows Hello
+Fingerprint, and have the user place a fingerprint on the fingerprint reader repeatedly until Windows indicates setup is complete.
+C. Navigate to the Windows 10 Settings menu, select the Update & Security submenu, select Windows Security, select
+Windows Hello Fingerprint, and have the user place a fingerprint on the fingerprint reader repeatedly until Windows indicates
+setup is complete.
+D. Navigate to the Control Panel utility, select the Administrative Tools submenu, select the user account in the list, select
+Windows Hello Fingerprint, and have the user place a fingerprint on the fingerprint reader repeatedly until Windows indicates
+setup is complete.
+Correct Answer ~ B
+QUESTION: 45
+An architecture firm is considering upgrading its computer-aided design (CAD) software to the newest version that forces
+storage of backups of all CAD files on the software's cloud server. Which of the following is MOST likely to be of concern to the
+IT manager?
+A. All updated software must be tested with all system types and accessories.
+B. Extra technician hours must be budgeted during installation of updates.
+C. Network utilization will be significantly increased due to the size of CAD files.
+D. Large update and installation files will overload the local hard drives.
+Correct Answer ~ C
+QUESTION: 46
+Someone who is fraudulently claiming to be from a reputable bank calls a company employee. Which of the following describes
+this incident?
+A. Pretexting
+B. Spoofing
+C. Vishing
+D. Scareware
+Correct Answer ~ C
+QUESTION: 47
+The network was breached over the weekend. System logs indicate that a single user's account was successfully breached
+after 500 attempts with a dictionary attack. Which of the following would BEST mitigate this threat?
+A. Encryption at rest
+B. Account lockout
+C. Automatic screen lock
+D. Antivirus
+Correct Answer ~ B
+QUESTION: 48
+A user reports a PC is running slowly. The technician suspects it has a badly fragmented hard drive. Which of the following tools
+should the technician use?
+A. resmon.exe
+B. msconfig.exe
+C. dfrgui.exe
+D. msinfo32.exe
+Correct Answer ~ C
+QUESTION: 49
+A company has just refreshed several desktop PCs. The hard drives contain PII. Which of the following is the BEST method to
+dispose of the drives?
+A. Drilling
+B. Degaussing
+C. Low-level formatting
+D. Erasing/wiping
+Correct Answer ~ B
+QUESTION: 50
+Which of the following is the MOST cost-effective version of Windows 10 that allows remote access through Remote Desktop?
+A. Home
+B. Pro for Workstations
+C. Enterprise
+D. Pro
+Correct Answer ~ D
+QUESTION: 51
+A user created a file on a shared drive and wants to prevent its data from being accidentally deleted by others. Which of the
+following applications should the technician use to assist the user with hiding the file?
+A. Device Manager
+B. Indexing Options
+C. File Explorer
+D. Administrative Tools
+Correct Answer ~ C
+QUESTION: 52
+A user is configuring a new SOHO Wi-Fi router for the first time. Which of the following settings should the user change FIRST?
+A. Encryption
+B. Wi-Fi channel
+C. Default passwords
+D. Service set identifier
+Correct Answer ~ C
+QUESTION: 53
+A technician has spent hours trying to resolve a computer issue for the company's Chief Executive Officer (CEO). The CEO
+needs the device returned as soon as possible. Which of the following step should the technician take NEXT?
+A. Continue researching the issue.
+B. Repeat the iterative processes.
+C. Inform the CEO the repair will take a couple of weeks.
+D. Escalate the ticket.
+Correct Answer ~ D
+QUESTION: 54
+Which of the following must be maintained throughout the forensic evidence life cycle when dealing with a piece of evidence?
+A. Acceptable use
+B. Chain of custody
+C. Security policy
+D. Information management
+Correct Answer ~ B
+QUESTION: 55
+A technician is configuring a SOHO device. Company policy dictates that static IP addresses cannot be used. The company
+wants the server to maintain the same
+IP address at all times. Which of the following should the technician use?
+A. DHCP reservation
+B. Port forwarding
+C. DNS A record
+D. NAT
+Correct Answer ~ A
+QUESTION: 56
+Security software was accidentally uninstalled from all servers in the environment. After requesting the same version of the
+software be reinstalled, the security analyst learns that a change request will need to be filled out. Which of the following is the
+BEST reason to follow the change management process in this scenario?
+A. Owners can be notified a change is being made and can monitor it for performance impact.
+B. A risk assessment can be performed to determine if the software is needed.
+C. End users can be aware of the scope of the change.
+D. A rollback plan can be implemented in case the software breaks an application.
+Correct Answer ~ A
+QUESTION: 57
+Once weekly, a user needs Linux to run a specific open-source application that is not available for the currently installed
+Windows platform. The user has limited bandwidth throughout the day. Which of the following solutions would be the MOST
+efficient, allowing for parallel execution of the Linux application and Windows applications?
+A. Install and run Linux and the required application in a PaaS cloud environment.
+B. Install and run Linux and the required application as a virtual machine installed under the Windows OS.
+C. Use a swappable drive bay for the boot drive and install each OS with applications on its own drive. Swap the drives as
+needed.
+D. Set up a dual boot system by selecting the option to install Linux alongside Windows.
+Correct Answer ~ B
+QUESTION: 58
+A user connects a laptop that is running Windows 10 to a docking station with external monitors when working at a desk. The
+user would like to close the laptop when it is docked, but the user reports it goes to sleep when it is closed. Which of the
+following is the BEST solution to prevent the laptop from going to sleep when it is closed and on the docking station?
+A. Within the Power Options of the Control Panel utility, click the Change Plan Settings button for the enabled power plan and
+select Put the Computer to Sleep under the Plugged In category to Never.
+B. Within the Power Options of the Control Panel utility, click the Change Plan Settings button for the enabled power plan and
+select Put the Computer to Sleep under the On Battery category to Never.
+C. Within the Power Options of the Control Panel utility, select the option Choose When to Turn Off the Display and select Turn
+Off the Display under the Plugged In category to Never.
+D. Within the Power Options of the Control Panel utility, select the option Choose What Closing the Lid Does and select When I
+Close the Lid under the Plugged In category to Do Nothing.
+Correct Answer ~ D
+QUESTION: 59
+A user attempts to open some files, but a message appears stating that the files are encrypted. The user was able to access
+these files before without receiving this message, and no changes have been made within the company. Which of the following
+has infected the computer?
+A. Cryptominer
+B. Phishing
+C. Ransomware
+D. Keylogger
+Correct Answer ~ C
+QUESTION: 60
+A technician is replacing the processor in a desktop computer. Prior to opening the computer, the technician wants to ensure the
+internal components are protected. Which of the following safety procedures would BEST protect the components in the PC?
+(Choose two.)
+A. Utilizing an ESD strap
+B. Disconnecting the computer from the power source
+C. Placing the PSU in an antistatic bag
+D. Ensuring proper ventilation
+E. Removing dust from the ventilation fans
+F. Ensuring equipment is grounded
+Correct Answer ~ AB
+QUESTION: 61
+A user wants to set up speech recognition on a PC. In which of the following Windows Settings tools can the user enable this
+option?
+A. Language
+B. System
+C. Personalization
+D. Ease of Access
+Correct Answer ~ D
+QUESTION: 62
+A user reports that antivirus software indicates a computer is infected with viruses. The user thinks this happened while
+browsing the internet. The technician does not recognize the interface with which the antivirus message is presented. Which of
+the following is the NEXT step the technician should take?
+A. Shut down the infected computer and swap it with another computer.
+B. Investigate what the interface is and what triggered it to pop up.
+C. Proceed with initiating a full scan and removal of the viruses using the presented interface.
+D. Call the phone number displayed in the interface of the antivirus removal tool.
+Correct Answer ~ B
+QUESTION: 63
+A technician found that an employee is mining cryptocurrency on a work desktop. The company has decided that this action
+violates its guidelines. Which of the following should be updated to reflect this new requirement?
+A. MDM
+B. EULA
+C. IRP
+D. AUP
+Correct Answer ~ D
+QUESTION: 64
+An organization is centralizing support functions and requires the ability to support a remote user's desktop. Which of the
+following technologies will allow a technician to see the issue along with the user?
+A. RDP
+B. VNC
+C. SSH
+D. VPN
+Correct Answer ~ B
+QUESTION: 65
+A technician installed a known-good, compatible motherboard on a new laptop. However, the motherboard is not working on the
+laptop. Which of the following should the technician MOST likely have done to prevent damage?
+A. Removed all jewelry
+B. Completed an inventory of tools before use
+C. Practiced electrical fire safety
+D. Connected a proper ESD strap
+Correct Answer ~ A
+QUESTION: 66
+A desktop specialist needs to prepare a laptop running Windows 10 for a newly hired employee. Which of the following methods
+should the technician use to refresh the laptop?
+A. Internet-based upgrade
+B. Repair installation
+C. Clean install
+D. USB repair
+E. In place upgrade
+Correct Answer ~ C
+QUESTION: 67
+The command cac cor.ptia. txt was issued on a Linux terminal. Which of the following results should be expected?
+A. The contents of the text comptia.txt will be replaced with a new blank document
+B. The contents of the text comptia. txt would be displayed.
+C. The contents of the text comptia.txt would be categorized in alphabetical order.
+D. The contents of the text comptia. txt would be copied to another comptia. txt file
+Correct Answer ~ B
+QUESTION: 68
+Which of the following provide the BEST way to secure physical access to a data cento server room? (Select TWO).
+A. Biometric lock
+B. Badge reader
+C. USB token
+D. Video surveillance
+E. Locking rack
+F. Access control vestibule
+Correct Answer ~ AF
+QUESTION: 69
+Which of the following OS types provides a lightweight option for workstations thai need an easy-to- use browser-based
+interface?
+A. FreeBSD
+B. Chrome OS
+C. macOS
+D. Windows
+Correct Answer ~ B
+QUESTION: 70
+A user reports that a PC seems to be running more slowly than usual. A technician checks system resources, but disk, CPU,
+and memory usage seem to be fine. The technician sees that GPU temperature is extremely high. Which of the following types
+of malware is MOST likely to blame?
+A. Spyware
+B. Cryptominer
+C. Ransormvare
+D. Boot sector virus
+Correct Answer ~ B
+QUESTION: 71
+During a recent flight an executive unexpectedly received several dog and cat pictures while trying to watch a movie via in-flight
+Wi-Fi on an iPhone. The executive has no records of any contacts sending pictures like these and has not seen these pictures
+before. To BEST resolve this issue, the executive should:
+A. set AirDrop so that transfers are only accepted from known contacts
+B. completely disable all wireless systems during the flight
+C. discontinue using iMessage and only use secure communication applications
+D. only allow messages and calls from saved contacts
+Correct Answer ~ A
+QUESTION: 72
+A user is unable to log in to the domain with a desktop PC, but a laptop PC is working properly on the same network. A
+technician logs in lo the desktop PC with a local account but is unable to browse to the secure intranet site to get
+troubleshooting tools. Which of the following is the MOST likely cause of the issue?
+A. Time drift
+B. Dual in-line memory module failure
+C. Application crash
+D. Filesystem errors
+Correct Answer ~ A
+QUESTION: 73
+Ann, a CEO, has purchased a new consumer-class tablet for personal use, but she is unable to connect it to the company’s
+wireless network. All the corporate laptops are connecting without issue. She has asked you to assist with getting the device
+online.
+INSTRUCTIONS
+Review the network diagrams and device configurations to determine the cause of the problem and resolve any discovered
+issues.
+If at any time you would like to bring back the initial state of the simulation, please click the Reset All button.
+A. See the explanation below:
+Correct Answer ~ A
+Explanation:
+Click on 802.11 and Select ac
+Click on SSID and select CORP
+Click on Frequency and select 5GHz
+At Wireless Security Mode, Click on Security Mode
+Select the WPA2
+Ann needs to connect to the BYOD SSID, using 2.4GHZ. The selected security method chose should be WPA PSK, and the
+password should be set to TotallySecret.
+QUESTION: 74
+An executive has contacted you through the help-desk chat support about an issue with a mobile device.
+Assist the executive to help resolve the issue.
+Which of the following should be done NEXT?
+A. Educate the user on the solution that was performed.
+B. Tell the user to take time to fix it themselves next time.
+C. Close the ticket out.
+D. Send an email to Telecom to inform them of the Issue and prevent reoccurrence.
+Correct Answer ~ A
+QUESTION: 75
+A user reports that a workstation is operating sluggishly Several other users operate on the same workstation and have reported
+that the workstation is operating normally. The systems administrator has validated that the workstation functions normally.
+Which of the following steps should the systems administrator most likely attempt NEXT?
+A. Increase the paging file size
+B. Run the chkdsk command
+C. Rebuild the user's profile
+D. Add more system memory.
+E. Defragment the hard drive.
+Correct Answer ~ C
+QUESTION: 76
+A technician is setting up a desktop computer in a small office. The user will need to access files on a drive shared from another
+desktop on the network. Which of the following configurations should the technician employ to achieve this goal?
+A. Configure the network as private
+B. Enable a proxy server
+C. Grant the network administrator role to the user
+D. Create a shortcut to public documents
+Correct Answer ~ A
+QUESTION: 77
+A user is experiencing frequent malware symptoms on a Windows workstation. The user has tried several times to roll back the
+state but the malware persists. Which of the following would MOST likely resolve the issue?
+A. Quarantining system files
+B. Reimaging the workstation
+C. Encrypting the hard drive
+D. Disabling TLS 1.0 support
+Correct Answer ~ B
+QUESTION: 78
+Which of the following Wi-Fi protocols is the MOST secure?
+A. WPA3
+B. WPA-AES
+C. WEP
+D. WPA-TKIP
+Correct Answer ~ A
+QUESTION: 79
+HOTSPOT (Drag & Drop is not supported)
+Welcome to your first day as a Fictional Company. LLC helpdesk employee. Please work the tickets in your helpdesk ticket
+queue.
+Click on individual tickers to see the ticket details. View attachments to determine the problem. Select the appropriate issue from
+the 'issue' drop-down menu. Then, select the MOST efficient resolution from the 'Resolution' drop-down menu. Finally, select
+the proper command or verification to remediate or confirm your fix of the issue from the Verify Resolve drop-down menu.
+A. See Explanation section for answer.
+Correct Answer ~ A
+Explanation:
+QUESTION: 80
+A department has the following technical requirements for a new application:
+The company plans to upgrade from a 32-bit Windows OS to a 64-bit OS. Which of the following will the company be able to
+fully take advantage of after the upgrade?
+A. CPU
+B. Hard drive
+C. RAM
+D. Touch screen
+Correct Answer ~ C
+QUESTION: 81
+A user reports that the hard drive activity light on a Windows 10 desktop computer has been steadily lit for more than an hour,
+and performance is severely degraded. Which of the following tabs in Task Manager would contain the information a technician
+would use to identify the cause of this issue?
+A. Services
+B. Processes
+C. Performance
+D. Startup
+Correct Answer ~ A
+QUESTION: 82
+A user is having issues with document-processing software on a Windows workstation. Other users that log in to the same
+device do not have the same issue.
+Which of the following should a technician do to remediate the issue?
+A. Roll back the updates.
+B. Increase the page file.
+C. Update the drivers.
+D. Rebuild the profile.
+Correct Answer ~ D
+QUESTION: 83
+Which of the following file extensions are commonly used to install applications on a macOS machine? (Choose three.)
+A. .mac
+B. .pkg
+C. .deb
+D. .dmg
+E. .msi
+F. .appx
+G. .app
+H. .apk
+Correct Answer ~ BDG
+QUESTION: 84
+Which of the following command-line tools will delete a directory?
+A. md
+B. del
+C. dir
+D. rd
+E. cd
+Correct Answer ~ D
+QUESTION: 85
+The findings from a security audit indicate the risk of data loss from lost or stolen laptops is high. The company wants to reduce
+this risk with minimal impact to users who want to use their laptops when not on the network. Which of the following would BEST
+reduce this risk for Windows laptop users?
+A. Requiring strong passwords
+B. Disabling cached credentials
+C. Requiring MFA to sign on
+D. Enabling BitLocker on all hard drives
+Correct Answer ~ D
+QUESTION: 86
+A technician receives a ticket indicating the user cannot resolve external web pages However, specific IP addresses
+are working. Which of the following does the technician MOST likely need to change on the workstation to resolve the
+issue?
+A. Default gateway
+B. Host address
+C. Name server
+D. Subnet mask
+Correct Answer ~ A
+QUESTION: 87
+A change advisory board did not approve a requested change due to the lack of alternative actions if implementation
+failed. Which of the following should be updated before requesting approval again?
+A. Scope of change
+B. Risk level
+C. Rollback plan
+D. End user acceptance
+Correct Answer ~ C
+QUESTION: 88
+A user enabled a mobile device's screen lock function with pattern unlock. The user is concerned someone could
+access the mobile device by repeatedly attempting random patterns to unlock the
+device. Which of the following features BEST addresses the user's concern?
+A. Remote wipe
+B. Anti-maIware
+C. Device encryption
+D. Failed login restrictions
+Correct Answer ~ A
+QUESTION: 89
+A technician at a customer site is troubleshooting a laptop A software update needs to be downloaded but the
+company's proxy is blocking traffic to the update site. Which of the following should the technician perform?
+A. Change the DNS address to 1.1.1.1
+B. Update Group Policy
+C. Add the site to the client's exceptions list
+D. Verity the software license is current.
+Correct Answer ~ A
+QUESTION: 90
+A systems administrator is setting up a Windows computer for a new user Corporate policy requires a least privilege
+environment. The user will need to access advanced features and configuration settings for several applications. Which of
+the following BEST describes the account access level the
+A. Power user account
+B. Standard account
+C. Guest account
+D. Administrator account
+Correct Answer ~ B
+QUESTION: 91
+A technician is asked to resize a partition on the internal storage drive of a computer running macOS. Which of the
+followings tools should the technician use to accomplish this task?
+A. Consoltf
+B. Disk Utility
+C. Time Machine
+D. FileVault
+Correct Answer ~ B
+QUESTION: 92
+A technician is asked to resize a partition on the internal storage drive of a computer running macOS. Which of the
+followings tools should the technician use to accomplish this task?
+A. Consoltf
+B. Disk Utility
+C. Time Machine
+D. FileVault
+Correct Answer ~ B
+QUESTION: 93
+A technician is configuring a new Windows laptop Corporate policy requires that mobile devices make use of full
+disk encryption at all limes Which of the following encryption solutions should the technician choose?
+A. Encrypting File System
+B. FileVault
+C. BitLocker
+D. Encrypted LVM
+Correct Answer ~ A
+QUESTION: 94
+A wireless network is set up, but it is experiencing some interference from other nearby SSIDs. Which of the
+following can BEST resolve the interference?
+A. Changing channels
+B. Modifying the wireless security
+C. Disabling the SSIO broadcast
+D. Changing the access point name
+Correct Answer ~ A
+QUESTION: 95
+A company is Issuing smartphones to employees and needs to ensure data is secure if the devices are lost or stolen. Which
+of the following provides the BEST solution?
+A. Anti-malware
+B. Remote wipe
+C. Locator applications
+D. Screen lock
+Correct Answer ~ B
+QUESTION: 96
+A technician has been tasked with using the fastest and most
+secure method of logging in to laptops. Which of the following log-in options meets these requirements?
+A. PIN
+B. Username and password
+C. SSO
+D. Fingerprint
+Correct Answer ~ A
+QUESTION: 97
+A user is unable to use any internet-related functions on a smartphone when it is not connected to Wi-Fi When the
+smartphone is connected to Wi-Fi the user can browse the internet and send and receive email. The user is also able
+to send and receive text messages and phone calls when the
+smartphone is not connected to Wi-Fi. Which of the following is the MOST likely reason the user is unable to use the
+internet on the smartphone when it is not connected to Wi-Fi?
+A. The smartphone's line was not provisioned with a data plan
+B. The smartphone's SIM card has failed
+C. The smartphone's Bluetooth radio is disabled.
+D. The smartphone has too many applications open
+Correct Answer ~ A
+QUESTION: 98
+A call center handles inquiries into billing issues for multiple medical facilities. A security analyst notices that call center
+agents often walk away from their workstations, leaving patient data visible for anyone to see. Which of the following should
+a network administrator do to BEST prevent data theft within the call center?
+A. Encrypt the workstation hard drives.
+B. Lock the workstations after five minutes of inactivity.
+C. Install privacy screens.
+D. Log off the users when their workstations are not in use.
+Correct Answer ~ B
+QUESTION: 99
+A user turns on a new laptop and attempts to log in to specialized software, but receives a message stating that the
+address is already in use. The user logs on to the old desktop and receives the same message. A technician checks the
+account and sees a comment that the user requires a specifically allocated address before connecting to the software.
+Which of the following should the technician do to MOST likely resolve the issue?
+A. Bridge the LAN connection between the laptop and the desktop.
+B. Set the laptop configuration to DHCP to prevent conflicts.
+C. Remove the static IP configuration from the desktop.
+D. Replace the network card in the laptop, as it may be defective.
+Correct Answer ~ C
+QUESTION: 100
+Which of the following provide the BEST way to secure physical access to a data center server room? (Choose two.)
+A. Biometric lock
+B. Badge reader
+C. USB token
+D. Video surveillance
+E. Locking rack
+F. Access control vestibule
+Correct Answer ~ AF
+QUESTION: 101
+A technician is installing a new business application on a user's desktop computer. The machine is running Windows
+10 Enterprise 32-bit operating system. Which of the following files should the technician execute in order to complete
+the installation?
+A. Installer_x64.exe
+B. Installer_Files.zip
+C. Installer_32.msi
+D. Installer_x86.exe
+E. Installer_Win10Enterprise.dmg
+Correct Answer ~ D
+QUESTION: 102
+Which of the following is the proper way for a technician to dispose of used printer consumables?
+A. Proceed with the custom manufacturer's procedure. Most Voted
+B. Proceed with the disposal of consumables in standard trash receptacles.
+C. Empty any residual Ink or toner from consumables before disposing of them in a standard recycling bin.
+D. Proceed with the disposal of consumables in standard recycling bins.
+Correct Answer ~ A
+QUESTION: 103
+Which of the following is an example of MFA?
+A. Fingerprint scan and retina scan
+B. Password and PIN
+C. Username and password
+D. Smart card and password
+Correct Answer ~ D
+QUESTION: 104
+A police officer often leaves a workstation for several minutes at a time. Which of the following is the BEST way the
+officer can secure the workstation quickly when walking away?
+A. Use a key combination to lock the computer when leaving.
+B. Ensure no unauthorized personnel are in the area.
+C. Configure a screensaver to lock the computer automatically after approximately 30 minutes of inactivity.
+D. Turn off the monitor to prevent unauthorized visibility of information.
+Correct Answer ~ A
+QUESTION: 105
+A Chief Executive Officer has learned that an exploit has been identified on the web server software, and a patch is
+not available yet. Which of the following attacks MOST likely occurred?
+A. rute force
+B. Zero day
+C. n-path
+D. Denial of service
+Correct Answer ~ B
+QUESTION: 106
+Which of the following is a proprietary Cisco AAA protocol?
+A. KIP
+B. AES
+C. RADIUS.
+D. TACACS+
+Correct Answer ~ D
+QUESTION: 107
+A homeowner recently moved and requires a new router for the new ISP to function correctly. The internet service
+has been installed and has been confirmed as functional. Which of the following is the FIRST step the homeowner
+should take after installation of all relevant cabling and hardware?
+A. Convert the PC from a DHCP assignment to a static IP address.
+B. Run a speed test to ensure the advertised speeds are met
+C. Test all network sharing and printing functionality the customer uses.
+D. Change the default passwords on new network devices.
+Correct Answer ~ D
+QUESTION: 108
+A technician is setting up a backup method on a workstation that only requires two sets of tapes to restore. Which
+of the following would BEST accomplish this task?
+A. Differential backup
+B. Off-site backup
+C. Incremental backup
+D. Full backup
+Correct Answer ~ A
+QUESTION: 109
+An Android user contacts the help desk because a company smartphone failed to complete a tethered OS update.
+A technician determines there are no error messages on the device. Which of the following should the technician
+do NEXT?
+A. Verify all third-party applications are disabled.
+B. Determine if the device has adequate storage available.
+C. Check if the battery is sufficiently charged.
+D. Confirm a strong internet connection is available using Wi-Fi or cellular data.
+Correct Answer ~ B
+QUESTION: 110
+A user calls the help desk to report potential malware on a computer. The anomalous activity began after the
+user clicked a link to a free gift card in a recent email. The technician asks the user to describe any unusual
+activity, such as slow performance, excessive pop-ups, and browser redirections. Which of the following
+should the technician do NEXT?
+A. Advise the user to run a complete system scan using the OS anti-malware application.
+B. Guide the user to reboot the machine into safe mode and verify whether the anomalous activities are still
+present.
+C. Have the user check for recently installed applications and outline those installed since the link in the
+email was clicked.
+D. Instruct the user to disconnect the Ethernet connection to the corporate network.
+Correct Answer ~ D
+QUESTION: 111
+While browsing a website, a staff member received a message that the website could not be trusted. Shortly
+afterward, several other colleagues reported the same issue across numerous other websites. Remote users
+who were not connected to corporate resources did not have any issues. Which of the following is MOST
+likely the cause of this issue?
+A. A bad antivirus signature update was installed.
+B. A router was misconfigured and was blocking traffic.
+C. An upstream internet service provider was flapping.
+D. The time or date was not in sync with the website.
+Correct Answer ~ B
+QUESTION: 112
+A technician is setting up a new laptop. The company's security policy states that users cannot install virtual machines.
+Which of the following should the technician implement to prevent users from enabling virtual technology on their laptops?
+A. UEFI password
+B. Secure boot
+C. Account lockout
+D. Restricted user permissions
+Correct Answer ~ A
+QUESTION: 113
+A technician arrives on site to find that two users who have the same model on Android smartphone are having
+the same issue with a specific application.Whenever they attempt to launch the application, it fails and gives an
+error message. Which of the following should the technician do FIRST?
+A. Reinstall the application
+B. Roll back the application to the earlier version
+C. Clear the application cache
+D. Update the OS of the smartphones
+Correct Answer ~ D
+QUESTION: 114
+A technician is working on a Windows 10 PC that is running slowly.Which of the following commands should the
+technician use to correct this issue? (Choose two.)
+A. dir
+B. chkdsk
+C. dism
+D. ipconfig
+E. format
+F. diskpart
+Correct Answer ~ BC
+QUESTION: 115
+An administrator is setting up a Windows terminal server. Which of the following settings should the
+administrator modify to increase server security? (Choose two.)
+A. Change the default access port
+B. Enforce password complexity
+C. Put the terminal server into the router’s DMZ
+D. Disable logon time restrictions
+E. Block all unused ports on the LAN smart switch
+F. Use the local client certificate for server authentication
+Correct Answer ~ CE
+QUESTION: 116
+A company has hired a new IT firm to manage its network switches and routers. The firm is geographically
+separated from the company and will need to able to securely access the devices.Which of the following will
+provide the ability to access these devices?
+A. Telnet
+B. SSH
+C. RDP
+D. VNC
+Correct Answer ~ B
+QUESTION: 117
+A small office’s wireless network was compromised recently by an attacker who brute forced a PIN to gain
+access.The attacker then modified the DNS settings on the router and spread malware to the entire network.
+Which of the following configurations MOST likely allowed the attack to take place? (Choose two.)
+A. Guest network
+B. TKIP
+C. Default login
+D. Outdated firmware
+E. WPS
+F. WEP
+Correct Answer ~ CE
+QUESTION: 118
+A client wants a technician to create a PC naming convention that will make the client’s PCs easier to track and
+identify while in use.Which of the following naming convention formats should the technician follow?
+A. Domain name, location, IP address
+B. Domain name, location, asset ID
+C. Asset ID, MAC address
+D. Location, RFID
+Correct Answer ~ B
+QUESTION: 119
+Which of the following provide the BEST security for a server room? (Choose two.)
+A. Badge reader
+B. Bollard
+C. Biometric lock
+D. Cable lock
+E. USB token
+F. Privacy window shades
+Correct Answer ~ AC
+QUESTION: 120
+Which of the following threats uses personalized information in an attempt at obtaining information?
+A. Whaling
+B. Impersonation
+C. Spoofing
+D. Spear phishing
+Correct Answer ~ D
+QUESTION: 121
+A technician receives an invalid certificate error when visiting a website with port 443 enabled. Other computers
+on the same LAN do not exhibit this symptom.Which of the following needs to be adjusted on the workstation to
+fix the issue?
+A. Date and time
+B. UEFI boot mode
+C. Logon times
+D. User access control
+Correct Answer ~ A
+QUESTION: 122
+A department in an organization set up a proxy server to manage its Internet stage. A technician is configuring
+the Windows workstations to use the new proxy server.Which of the following Control Panel utilities should the
+technician use to configure the setting?
+A. Internet Options – Advanced
+B. Internet Options – Connections
+C. Internet Options – Security
+D. Internet Options – Content
+E. Internet Options – Privacy
+Correct Answer ~ B
+QUESTION: 123
+Which of the following is the amount of memory a user is limited to with a 32-bit version of Windows?
+A. 2GB
+B. 4GB
+C. 8GB
+D. 16GB
+Correct Answer ~ B
+QUESTION: 124
+A technician is working at a help desk firm and receives a call from a user who has experienced repeated
+BSODs. The technician is scheduled to take a break just after the call comes in.Which of the following is the
+BEST choice for the technician to make?
+A. Politely ask the user to call back
+B. Ask another technician to take the call
+C. Troubleshoot the issue for the user
+D. Input the issue as a ticket and escalate to Tier 2
+E. Put the user on hold and troubleshoot after the scheduled break
+Correct Answer ~ B
+QUESTION: 125
+A user’s phone contains customer’s PII. The user cannot have the phone automatically wiped because the data
+is very valuable.Which of the following is the BEST method of securing the phone?
+A. Fingerprint lock
+B. Passcode lock
+C. Swipe lock
+D. PIN lock
+Correct Answer ~ A
+QUESTION: 126
+Which of the following devices are MOST likely to have a grounding wire attached to them based on the
+manufacturer’s design? (Choose two.)
+A. UPS
+B. Server rack
+C. PoE phone
+D. Desktop printer
+E. Modem
+F. Patch panel
+Correct Answer ~ AB
+QUESTION: 127
+A technician has just finished installing a secondary OS on a workstation. After rebooting the computer, the
+technician receives the following error: No OS found. The technician confirms the boot.ini file is correct. Which of
+the following is MOST likely causing this error?
+A. The computer has GRUB Legacy installed
+B. Windows Startup services are not running
+C. An incompatible partition is marked as active
+D. An unsupported version of Windows is installed
+Correct Answer ~ C
+QUESTION: 128
+A technician is installing a private PC in a public workspace. Which of the following password practices should
+the technician implement on the PC to secure network access?
+A. Remove the guest account from the administrators group
+B. Disable single sign-on
+C. Issue a default strong password for all users
+D. Require authentication on wake-up
+Correct Answer ~ D
+QUESTION: 129
+Joe, an employee, took a company-issued Windows laptop home, but is having trouble connecting to any of the
+shares hosted on his home media server. Joe has verified he is connected to the Internet.Which of the following
+would explain why Joe cannot access his personal shares?
+A. An IP conflict is present
+B. A corporate VPN is enabled
+C. A firewall exception must be set
+D. HomeGroup must be enabled
+Correct Answer ~ D
+QUESTION: 130
+A user believes there is a virus on a laptop. The user installs additional real-time protection antivirus software
+but is now experiencing extremely slow performance on the laptop.Which of the following should a technician do
+to resolve the issue and avoid recurrence?
+A. Activate real-time protection on both antivirus software programs
+B. Uninstall one antivirus software program and install a different one
+C. Run OS updates
+D. Enable the quarantine feature on both antivirus software programs
+E. Remove the user-installed antivirus software
+Correct Answer ~ E
+QUESTION: 131
+A user who is running Windows XP calls a technician to upgrade the computer to a newer Windows OS. The
+user states the computer has only 1GB of RAM and 16GB of hard drive space with a 1.7GHz processor. Which
+of the following OSs should the technician recommended to ensure the BEST performance on this computer?
+A. Windows 7
+B. Windows 8
+C. Windows 8.1
+D. Windows 10
+Correct Answer ~ A
+QUESTION: 132
+Joe, a customer, has informed a Tier 2 help desk technician that a computer will not boot up. After about ten
+minutes of troubleshooting, Joe is increasingly concerned and claims that the technician is wasting his time
+because he has already tried everything that has been suggested.Which of the following should the technician
+do?
+A. Since Joe is concerned about time, suggest calling back later when Joe has more time to troubleshoot
+B. Record the call and send it to the local intranet for future technicians to learn how to deal with calls like
+this one
+C. Ask more open-ended questions to see if the issue can be narrowed down in order to properly identify
+the issue and save time
+D. Inform the customer that there is a troubleshooting script that must be followed to get the issue
+resolved
+Correct Answer ~ C
+QUESTION: 133
+Which of the following security methods BEST describes when a user enters a username and password once
+for multiple applications?
+A. SSO
+B. Permission propagation
+C. Inheritance
+D. MFA
+Correct Answer ~ A
+QUESTION: 134
+A technician is setting up a kiosk. The technician needs to ensure the kiosk is secure and users will have access
+to only the application needed for customer interaction. The technician must also ensure that whenever the
+computer is rebooted or powered on it logs in automatically without a password.Which of the following account
+types would the technician MOST likely set up on this kiosk machine?
+A. Guest
+B. Administrator
+C. Power User
+D. Remote Desktop User
+Correct Answer ~ A
+QUESTION: 135
+A technician has been asked to recommend antivirus software for a home PC, but the user does not want to pay
+for a license.Which of the following license types should the technician recommend?
+A. Open license
+B. Personal license
+C. Corporate license
+D. Enterprise license
+Correct Answer ~ A
+QUESTION: 136
+Joe, a systems administrator, is setting up a risk management plan for the IT department. Part of the plan is to
+take daily backups of all servers. The server backups will be saved locally to NAS.Which of the following can
+Joe do to ensure the backups will work if needed?
+A. Frequently restore the servers from backup files and test them
+B. Configure the backups to restore to virtual machines for quick recovery
+C. Set up scripts that automatically rerun failed backup jobs
+D. Set up alerts to let administrators know when backups fail
+E. Store copies of the backups off-side in a secure datacenter
+Correct Answer ~ D
+QUESTION: 137
+A SOHO customer has recently experienced a major hurricane. The customer has no backups and has lost all
+data and hardware associated with the company. The customer calls a contractor to assist in the rebuilding
+process and needs suggestions on the best way to prevent this from happening again.Which of the following
+recommendations should the contractor give to the customer? (Choose two.)
+A. Backup testing
+B. Cloud storage
+C. Local storage backups
+D. Data recovery
+E. Hot site
+F. Waterproof devices
+Correct Answer ~ BE
+QUESTION: 138
+A technician is running updates on a Windows PC. Some of the updates install properly, while others appear as
+failed. While troubleshooting, the technician restarts the PC and attempts to install the failed updates again. The
+updates continue to fail.Which of the following is the FIRST option to check?
+A. Visit the Microsoft Update website to see if there is an issue with a specific update
+B. Look up the error number associated with the failed update
+C. Look at the system Event Viewer to find more information on the failure
+D. Download the failed update to install manually
+Correct Answer ~ B
+QUESTION: 139
+A technician needs to edit a protected .dll file but cannot find the file in the System32 directory.Which of the
+following Control Panel utilities should the technician use?
+A. System
+B. Display
+C. Folder Options
+D. Indexing Options
+Correct Answer ~ C
+QUESTION: 140
+A technician has identified malware on a user’s system.Which of the following should the technician do NEXT
+according to malware removal best practices?
+A. Enable System Restore and create a restore point so no data is lost
+B. Educate the user about how to avoid malware in the future
+C. Update the antivirus software and run a full system scan
+D. Move the infected system to a lab with no network connectivity
+Correct Answer ~ D
+QUESTION: 141
+A user’s Windows laptop has become consistently slower over time. The technician checks the CPU utilization
+and sees that it varies between 95% and 100%. After the technician closes some running applications, the CPU
+utilization drops to approximately 20%, and the laptop runs much faster. The next day the same user calls again
+with the same problem.Which of the following is a tool the technician can use to resolve the issue?
+A. Task Manager
+B. MSTSC
+C. MSConfig
+D. PerfMon
+Correct Answer ~ A
+QUESTION: 142
+A user is requesting a solution that will prevent file corruption and ensure a graceful shutdown while providing at
+least one hour of uptime in case of extreme weather conditions.Which of the following should a technician
+recommend?
+A. Uninterruptible power supply
+B. Surge protector
+C. Power strip
+D. Power distribution unit
+Correct Answer ~ A
+QUESTION: 143
+Which of the following installation types would require the use of an answer file to install the OS?
+A. Unattended
+B. Clean
+C. Repair
+D. Upgrade
+Correct Answer ~ A
+QUESTION: 144
+A Mac user’s operating system became corrupted, and files were deleted after malware was downloaded. The
+user needs to access the data that was previously stored on the MAC.Which of the following built-in utilities
+should be used?
+A. Time Machine
+B. Snapshot
+C. System Restore
+D. Boot Camp
+Correct Answer ~ A
+QUESTION: 145
+A manager requests remote access to a server after hours and on weekends to check data. The manager
+insists on using the server.Before granting the access, which of the following is the MOST important step a
+technician can take to protect against possible infection?
+A. Create a policy to remove Internet access from the server during off hours
+B. Set the local antivirus software on the server to update and scan daily
+C. Ensure the server is patched with the latest security updates
+D. Educate the manager on safe Internet browsing practices
+Correct Answer ~ C
+QUESTION: 146
+Which of the following installation methods will allow a technician to resolve issues that may arise while the
+installation is being performed?
+A. Unattended installation
+B. Remote installation
+C. Repair installation
+D. Image deployment installation
+Correct Answer ~ D
+QUESTION: 147
+A new company policy states that all end-user access to network resources will be controlled based on the
+users’ roles and responsibilities within the organization.Which of the following security concepts has the
+company just enabled?
+A. Certificates
+B. Least privilege
+C. Directory permissions
+D. Blacklists
+Correct Answer ~ B
+QUESTION: 148
+A technician receives a phone call regarding ransomware that has been detected on a PC in a remote
+office.Which of the following steps should the technician take FIRST?
+A. Disconnect the PC from the network
+B. Perform an antivirus scan
+C. Run a backup and restore
+D. Educate the end user
+Correct Answer ~ A
